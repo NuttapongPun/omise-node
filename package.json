@@ -1,7 +1,7 @@
 {
-  "name": "omise",
-  "version": "0.8.5",
-  "description": "Omise Node.js bindings",
+  "name": "no-problem-omise",
+  "version": "1.0.0",
+  "description": "Type Fixed Omise Node.js bindings",
   "main": "index.js",
   "types": "types/index.d.ts",
   "scripts": {
@@ -11,14 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/omise/omise-node.git"
+    "url": "https://github.com/NuttapongPun/omise-node"
   },
   "author": "Omise <support@omise.co> (https://omise.co/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/omise/omise-node/issues"
-  },
-  "homepage": "https://github.com/omise/omise-node",
+  "homepage": "https://github.com/NuttapongPun/omise-node",
   "dependencies": {
     "@types/bluebird": "^3.5.30",
     "@types/node": "^8.10.60",
